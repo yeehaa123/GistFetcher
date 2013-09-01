@@ -1,10 +1,10 @@
-# Simple Gist Parser
+# Gist Fetcher
  
 The name says it all!
 
 Usage:
 
-    SimpleGistParser.parse_gist(6068276)
+    SimpleGistFetcher.parse_gist(6068276)
 
 That's it!
 

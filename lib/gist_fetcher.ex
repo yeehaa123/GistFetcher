@@ -1,4 +1,4 @@
-defmodule SimpleGistParser do
+defmodule GistFetcher do
   alias HTTPotion.Response
 
   def parse_gist(id) do

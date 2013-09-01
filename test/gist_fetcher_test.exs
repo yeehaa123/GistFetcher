@@ -1,4 +1,4 @@
-defmodule SimpleGistParserTest do
+defmodule SimpleGistFetcherTest do
   use ExUnit.Case
 
   test "the truth" do
